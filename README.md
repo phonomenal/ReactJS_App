@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/c6a8da4b-c34c-4f51-a11b-16364884fd79.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/reactjs_app?orgId=650162616495)  
+
 ## Available Scripts
 
 In the project directory, you can run:
